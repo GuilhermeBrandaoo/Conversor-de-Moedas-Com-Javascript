@@ -24,6 +24,7 @@ h1 {
 main {
     border-radius: 20px;
     padding: 44px 24px 23px;
+    margin-top: 20px;
     width: 375px;
     background-color: rgb(235, 235, 235);
 }
