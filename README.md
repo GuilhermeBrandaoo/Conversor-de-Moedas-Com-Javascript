@@ -6,7 +6,7 @@ O projeto foi desenvolvido com HTML, CSS e JavaScript puro para praticar manipul
 
 ## Demonstração
 
-<img width="100%" alt="video" src="https://github.com/user-attachments/assets/192cae18-8221-4649-bd11-6e7b8692a8ba" />
+<img width="400" height="231" alt="video" src="https://github.com/user-attachments/assets/ba89d45e-4ec2-413f-a0ef-8a302aa351a4" />
 
 
 No GitHub, vídeos enviados para uma issue ou pull request podem ser copiados e adicionados ao README como links. Para uma prévia visível diretamente na página, utilize um GIF ou uma imagem com link para o vídeo.
