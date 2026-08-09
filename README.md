@@ -6,10 +6,6 @@ O projeto foi desenvolvido com HTML, CSS e JavaScript puro para praticar manipul
 
 ## Demonstração
 
-> Os vídeos de demonstração serão adicionados aqui.
-
-### Visão geral
-
 <img width="400" height="231" alt="video" src="https://github.com/user-attachments/assets/192cae18-8221-4649-bd11-6e7b8692a8ba" />
 
 
