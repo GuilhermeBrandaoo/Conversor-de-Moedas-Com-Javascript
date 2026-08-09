@@ -10,17 +10,8 @@ O projeto foi desenvolvido com HTML, CSS e JavaScript puro para praticar manipul
 
 ### Visão geral
 
-<!-- Substitua o endereço abaixo pelo link do vídeo publicado no GitHub. -->
-[Assistir à demonstração completa](LINK_DO_VIDEO)
+<img width="400" height="231" alt="video" src="https://github.com/user-attachments/assets/192cae18-8221-4649-bd11-6e7b8692a8ba" />
 
-### Conversão entre moedas
-
-<!-- Também é possível adicionar um GIF: ![Conversão entre moedas](docs/conversao.gif) -->
-[Assistir ao fluxo de conversão](LINK_DO_VIDEO)
-
-### Tratamento de erros
-
-[Assistir ao tratamento de entradas e falhas da API](LINK_DO_VIDEO)
 
 No GitHub, vídeos enviados para uma issue ou pull request podem ser copiados e adicionados ao README como links. Para uma prévia visível diretamente na página, utilize um GIF ou uma imagem com link para o vídeo.
 
